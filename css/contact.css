@@ -1,0 +1,46 @@
+.contact tr {
+  height: 7rem;
+}
+
+.contact th {
+  width: 150px;
+  color: black;
+  text-align: right;
+}
+
+.contact td {
+  width: 480px;
+  padding-left: 1rem;
+}
+
+.contact textarea{
+    width: 100%;
+}
+
+
+.td_width {
+  width: 100%;
+}
+
+.content p{
+  text-align: center;
+}
+
+.contact {
+  border-collapse: collapse;
+}
+
+.form_buttom {
+  color: white;
+  background-color: #008b8b;
+  font-size: 25px;
+  padding: 10px
+}
+
+.contact a {
+  text-decoration-line: none;p
+}
+
+.contact a:hover {
+  opacity: 0.6;
+}
